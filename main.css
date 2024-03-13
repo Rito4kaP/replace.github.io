@@ -69,6 +69,8 @@
   .mini-menu {
     display: flex;
   }
+  .b-menu{
+    display:block;}
   .burger-btn {
     display: block;
     cursor: pointer;
