@@ -420,7 +420,7 @@
     font-size: 50px;
   }
 }
-@media (min-width: 1500px) {
+@media (min-width: 1900px) {
   .top-destinations-grid {
     width: 1752px;
   }
@@ -692,7 +692,7 @@
     margin-top: 0px;
   }
 }
-@media (min-width: 1500px) {
+@media (min-width: 1900px) {
   .footer {
     padding-top: 700px;
     width: 100vw;
