@@ -539,6 +539,7 @@
   height: 850px;
   padding-top: 550px;
   background-image: url("img/Footer.png");
+  background-size:cover;
 }
 
 .footer-links {
