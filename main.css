@@ -694,7 +694,7 @@
 }
 @media (min-width: 2000px) {
   .footer{
-    padding-top: 700px;
+/*     padding-top: 700px; */
     width: 100vw;
     background-color: #003531;
     background-image: url("img/Footer.png");
