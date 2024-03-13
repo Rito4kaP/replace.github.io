@@ -420,9 +420,9 @@
     font-size: 50px;
   }
 }
-@media (min-width: 1900px) {
+@media (min-width: 1600px) {
   .top-destinations-grid {
-    width: 1602px;
+    width: 1402px;
   }
 }
 .more-destinations__subtitle {
@@ -624,7 +624,7 @@
 }
 @media (min-width: 1500px) {
   .more-destinations-grid {
-    width: 1152px;
+    width: 1052px;
   }
 }
 .footer {
