@@ -463,7 +463,7 @@
 .more-destinations-grid {
   display: grid;
   transition: all 400ms;
-  width: 85vw;
+  width: 80vw;
   grid-template-columns: 1fr 1.3fr 1.3fr;
   grid-template-rows: 345px 345px;
   gap: 20px;
@@ -624,7 +624,7 @@
 }
 @media (min-width: 1500px) {
   .more-destinations-grid {
-    width: 1052px;
+    width: 952px;
   }
 }
 .footer {
