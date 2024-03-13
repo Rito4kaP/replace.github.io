@@ -40,7 +40,7 @@
   text-decoration: underline;
 }
 
-.burger-btn {
+.burger-btn,.b-menu__item, .b-menu{
   display: none;
 }
 
