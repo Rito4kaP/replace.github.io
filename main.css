@@ -86,6 +86,7 @@
     opacity: 0;
     transition: 0.3s ease;
   }
+  .b-menu__item{display:block;}
   .close-burger {
     position: absolute;
     top: 15px;
